@@ -31,6 +31,8 @@
 		85FBB47A1B759FE600FC198D /* gameboard.png in Resources */ = {isa = PBXBuildFile; fileRef = 85FBB4741B759FE600FC198D /* gameboard.png */; };
 		85FBB47B1B759FE600FC198D /* gameboard@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 85FBB4751B759FE600FC198D /* gameboard@2x.png */; };
 		85FBB47F1B76B06900FC198D /* Swiftris.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85FBB47E1B76B06900FC198D /* Swiftris.swift */; };
+		85FBB4821B77CCA100FC198D /* whitebg.png in Resources */ = {isa = PBXBuildFile; fileRef = 85FBB4801B77CCA100FC198D /* whitebg.png */; };
+		85FBB4831B77CCA100FC198D /* whitebg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 85FBB4811B77CCA100FC198D /* whitebg@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +74,8 @@
 		85FBB4741B759FE600FC198D /* gameboard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gameboard.png; sourceTree = "<group>"; };
 		85FBB4751B759FE600FC198D /* gameboard@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gameboard@2x.png"; sourceTree = "<group>"; };
 		85FBB47E1B76B06900FC198D /* Swiftris.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Swiftris.swift; sourceTree = "<group>"; };
+		85FBB4801B77CCA100FC198D /* whitebg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebg.png; sourceTree = "<group>"; };
+		85FBB4811B77CCA100FC198D /* whitebg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "whitebg@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +144,8 @@
 		85FBB41A1B71914200FC198D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				85FBB4801B77CCA100FC198D /* whitebg.png */,
+				85FBB4811B77CCA100FC198D /* whitebg@2x.png */,
 				85FBB4721B759FE600FC198D /* background.png */,
 				85FBB4731B759FE600FC198D /* background@2x.png */,
 				85FBB4741B759FE600FC198D /* gameboard.png */,
@@ -254,6 +260,8 @@
 				85FBB4411B743C2B00FC198D /* Sounds in Resources */,
 				85FBB4261B71914200FC198D /* Main.storyboard in Resources */,
 				85FBB4781B759FE600FC198D /* background.png in Resources */,
+				85FBB4821B77CCA100FC198D /* whitebg.png in Resources */,
+				85FBB4831B77CCA100FC198D /* whitebg@2x.png in Resources */,
 				85FBB4451B743C9B00FC198D /* Sprites.atlas in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
